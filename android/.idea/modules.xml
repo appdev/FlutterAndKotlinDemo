@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flutter_plugin/android/flutter_plugin.iml" filepath="$PROJECT_DIR$/../flutter_plugin/android/flutter_plugin.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/temp_flutter_webview_plugin-0.1.6/android/temp_flutter_webview_plugin.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/temp_flutter_webview_plugin-0.1.6/android/temp_flutter_webview_plugin.iml" />
+    </modules>
+  </component>
+</project>
